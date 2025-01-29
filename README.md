@@ -1,4 +1,8 @@
 # Smart-Watch-Analysis
+
+![Smartwatch-Data-Analysis-using-Python](https://github.com/user-attachments/assets/d6b2469f-72c3-4794-9b93-602b2aafe223)
+
+
 *Smart Watch Analysis and Data Visualization*
 
 This project analyzes and visualizes data related to smartwatches, focusing on important features such as display size, water resistance, battery life, and price. The analysis includes calculating basic statistics, generating insightful visualizations, and exploring relationships between these features for different smartwatch brands.
