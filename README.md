@@ -3,19 +3,19 @@
 ![Smartwatch-Data-Analysis-using-Python](https://github.com/user-attachments/assets/d6b2469f-72c3-4794-9b93-602b2aafe223)
 
 
-*Smart Watch Analysis and Data Visualization*
+**Smart Watch Analysis and Data Visualization**
 
 This project analyzes and visualizes data related to smartwatches, focusing on important features such as display size, water resistance, battery life, and price. The analysis includes calculating basic statistics, generating insightful visualizations, and exploring relationships between these features for different smartwatch brands.
 
-*Key Features of the Analysis:*
+**Key Features of the Analysis**
 
-*Data Preprocessing:*
+*Data Preprocessing*
 
 Cleaning the dataset (if necessary).
 
 Ensuring columns like Price (USD), Battery Life (days), Display Size (inches), and Water Resistance (meters) are numeric.
 
-*Exploratory Data Analysis (EDA):*
+**Exploratory Data Analysis (EDA)**
 
 Scatter Plots: 
 
@@ -29,7 +29,7 @@ Descriptive Statistics:
 
 Calculating the average and standard deviation of features like display size, battery life, and price.
 
-*Visualization Techniques:*
+**Visualization Techniques**
 
 Seaborn Scatter Plot: 
 
@@ -39,11 +39,11 @@ Bar Plots:
 
 Summarizes the data by showing total price and total battery life for each brand.
 
-*Statistical Analysis:*
+**Statistical Analysis:***
 
 Mean and standard deviation of columns such as display size, water resistance, battery life, and price.
 
-*Visualizations and Insights:*
+**Visualizations and Insights**
 
 Scatter Plot: 
 
@@ -63,11 +63,11 @@ Linear Regression:
 
 Implement a basic regression model to predict battery life based on other features like price and display size.
 
-*Conclusion:*
+**Conclusion**
 
 The analysis of smartwatch data reveals varying relationships between price and battery life across different brands, with no clear correlation between higher price and longer battery life. Some brands offer better value in terms of battery life at lower prices, while others focus on premium pricing with additional features. The bar charts and statistical metrics highlight significant differences in feature offerings between brands. Overall, the analysis provides insights into brand strategies and suggests potential for further exploration through predictive modeling.
 
-*Dependencies:*
+**Dependencies**
 
 Python 3.x
 pandas
