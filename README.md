@@ -9,7 +9,7 @@ This project analyzes and visualizes data related to smartwatches, focusing on i
 
 **Key Features of the Analysis**
 
-*Data Preprocessing*
+Data Preprocessing
 
 Cleaning the dataset (if necessary).
 
