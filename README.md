@@ -68,6 +68,7 @@ Implement a basic regression model to predict battery life based on other featur
 The analysis of smartwatch data reveals varying relationships between price and battery life across different brands, with no clear correlation between higher price and longer battery life. Some brands offer better value in terms of battery life at lower prices, while others focus on premium pricing with additional features. The bar charts and statistical metrics highlight significant differences in feature offerings between brands. Overall, the analysis provides insights into brand strategies and suggests potential for further exploration through predictive modeling.
 
 **Dependencies**
+
 Python 3.x
 pandas
 numpy
