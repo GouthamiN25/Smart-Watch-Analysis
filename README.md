@@ -1,4 +1,4 @@
-# Smart-Watch-Analysis
+# Smart Watch Analysis - Data Analysis
 
 ![Smartwatch-Data-Analysis-using-Python](https://github.com/user-attachments/assets/d6b2469f-72c3-4794-9b93-602b2aafe223)
 
