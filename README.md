@@ -69,7 +69,7 @@ The analysis of smartwatch data reveals varying relationships between price and 
 
 **Dependencies**
 
-Python 3.x
+Python 3.
 pandas
 numpy
 matplotlib
