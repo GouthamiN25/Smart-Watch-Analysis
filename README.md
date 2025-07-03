@@ -50,7 +50,7 @@ Scatter Plot:
 Highlights how price correlates with battery life, helping to understand whether higher-priced smartwatches provide longer battery life.
 
 Bar Charts:
-\
+
 Provides a comparison of total price and total battery life across various brands, revealing which brands offer more value or longer-lasting products.
 
 Possible Enhancements:
